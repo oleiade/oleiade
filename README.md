@@ -1,4 +1,8 @@
-### Hi there 👋
+### You've found Théo 👋
+
+## What I'm working on at the moment
+
+- [A Rust crate to parse human-readable durations into standard `std::time::Duration` instances](https://github.com/oleiade/jackdauer)
 
 <!--
 **oleiade/oleiade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
