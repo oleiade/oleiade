@@ -3,6 +3,7 @@
 ### What I'm working on at the moment
 
 - [Gomme: A Go lang parser combinators toolkit exploiting the flexibility of the newly introduced generics](https://github.com/oleiade/gomme)
+- [Lane: A Go lang library implementing generic PriorityQueues, Queues, Stacks, and Deque data structures](https://github.com/oleiade/lane) 
 - [Jackdauer: A Rust crate to parse human-readable durations into standard `std::time::Duration` instances](https://github.com/oleiade/jackdauer)
 
 ### Around the web 🌍
