@@ -1,6 +1,10 @@
 ## You've found Théo! 👋
 
-I'm a product and UX-oriented senior software engineer with 13 years of experience working in both remote and multicultural companies. My diverse background spans industries such as the press, data analytics, music, and observability. I'm passionate about delivering value to users and enjoy taking a holistic, hacker-style approach to engineering. My communication and soft skills complement my technical expertise, making me a versatile team player with strategic thinking and decision-making abilities.
+I'm a product and UX-oriented senior software engineer with 13 years of experience working in both remote and multicultural companies. My diverse background spans industries such as the press, data analytics, music, and observability. I'm passionate about delivering value to users and enjoy taking a holistic, hacker-style approach to engineering.
+
+## 🏆 Proud Open-Source Contributions
+
+I am a maintainer of the popular k6 load testing tool. My other proud open-source contributions include the Go lang library [Lane](https://github.com/oleiade/lane), which implements generic PriorityQueues, Queues, Stacks, and Deque data structures, the Go library [Reflections](https://github.com/oleiade/trousseau), which simplifies reflection-based tasks, and the [Trousseau](https://github.com/oleiade/lane) project, which makes it easy to store and share private data in a safe manner.
 
 ## 💼 Work Experience
 
@@ -13,10 +17,6 @@ My strong focus on product and user experience is complemented by strategic thin
 ## 🎓 Education
 
 I studied Literature and Philosophy before switching to Computer Science. I graduated from Epitech, a top computer science school in France.
-
-## 🏆 Proud Open-Source Contributions
-
-I am a maintainer of the popular k6 load testing tool. My other proud open-source contributions include the Go lang library [Lane](https://github.com/oleiade/lane), which implements generic PriorityQueues, Queues, Stacks, and Deque data structures, the Go library [Reflections](https://github.com/oleiade/trousseau), which simplifies reflection-based tasks, and the [Trousseau](https://github.com/oleiade/lane) project, which makes it easy to store and share private data in a safe manner.
 
 ## 🌍 Around the web
 
