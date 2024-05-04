@@ -34,23 +34,24 @@ I demystify technology one article at a time on my blog, https://theocrevon.com.
 
 Beyond coding, I'm passionate about literature, video games, philosophy, and photography. I've played the piano for a decade, have a healthy obsession with Japanese culture and food, and have been living in Berlin for the past decade. 
 
-## ⚡ Fun facts
-
-- I use the fish shell. Some people seem to find it funny.
-I use the [MonoLisa](https://www.monolisa.dev/) font for everything related to code, and people have been calling me "so French 🇫🇷" for it.
-- I have an obsession with hardcore management and simulation games. If both the pilots of an Airbus A320 I was onboard were to become incapacitated, I'd probably be the passengers' best chance at landing it safely.
-
 ## 💡 Neurodiversity
 
-It might not seem like it initially, but I'm rather shy and introverted. The Myers and Briggs personality test classifies me as an [INTP](https://www.16personalities.com/intp-personality), and in my experience, it fits how I perceive myself and what others reflect on me.
+Initially, it might not seem like it, but I'm rather shy and introverted. The Myers and Briggs personality test classifies me as an [INTP](https://www.16personalities.com/intp-personality), and in my experience, it fits how I perceive myself and what others reflect on me.
 
-A constitutive aspect of my personality I prefer to share is that I have a high IQ (for some reason, I always feel guilty, ashamed, and scared of saying it) and identify as neurodiverse. I'm not Einstein, but in my experience and according to modern psychology research, my brain can work in a somewhat different way than the "typical" person's. 
+A constitutive aspect of my personality I prefer to share is that I have a high IQ (for some reason, I always feel guilty, ashamed, and scared of saying it) and identify as neurodiverse. I'm not Einstein, but in my experience and according to modern psychology research, my brain can work somewhat differently than the "typical" person's. 
 
-For instance, although it tends not to be very well accepted in the world of technology, I have and rely on intuition quite heavily (as opposed to complex argument reasoning, although I'm also capable of that). Much of my awoken time is spent learning things; my brain somehow smothers all that in dark and tiny corners and fetches them out of the blue without necessarily providing me context when it judges it necessary. 
+For instance, although it tends to be less well accepted in the world of technology, I rely on intuition quite heavily (as opposed to complex argument reasoning, although I'm also capable of that). Much of my awoken time is spent learning things; my brain somehow smothers all that in dark and tiny corners and fetches them out of the blue without necessarily providing me context when it judges it necessary. 
 
-I can also have trouble reasoning sequentially. My brain tends to prefer a more tree-like reasoning structure where ideas are nodes, and it constantly tries to connect them with edges in ways that can sometimes look completely irrelevant. Thus, I also sometimes have a hard time expressing what I mean because it's really hard to make what in my brain is some sort of mind map into a sequence of words.
+I can also have trouble reasoning sequentially. My brain prefers a more tree-like reasoning structure where ideas are nodes, and it constantly tries to connect them with edges in ways that can sometimes look completely irrelevant. Thus, I also sometimes have a hard time expressing what I mean because it's tough to make what in my brain is some mind map into a sequence of words.
+
+## ⚡ Fun facts
+
+* I use the fish shell. Some people seem to find it funny.
+* Most of my infrastructure runs on [FreeBSD](https://www.freebsd.org/) —yes, even the web services I run. Sure, it doesn't have all the fancy stuff the cool kids expect nowadays, but it's small, self-contained, well-documented, stable and easy to master.
+* I use the [MonoLisa](https://www.monolisa.dev/) font for everything related to code, and people have been calling me "so French 🇫🇷" for it.
+* I have an obsession with hardcore management and simulation games. If both the pilots of an Airbus A320 I was onboard were to become incapacitated, I'd probably be the passengers' best chance at landing it safely.
 
 ## 📫 Contact
 
-Regardless of the reason for it, you can contact me directly. Be kind 🙇‍♂️
+Regardless of the reason for it, please feel free to contact me directly. Be kind 🙇‍♂️
 
