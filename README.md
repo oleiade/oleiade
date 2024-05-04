@@ -50,7 +50,7 @@ For instance, although it tends not to be very well accepted in the world of tec
 
 I can also have trouble reasoning sequentially. My brain tends to prefer a more tree-like reasoning structure where ideas are nodes, and it constantly tries to connect them with edges in ways that can sometimes look completely irrelevant. Thus, I also sometimes have a hard time expressing what I mean because it's really hard to make what in my brain is some sort of mind map into a sequence of words.
 
-📫 Contact
+## 📫 Contact
 
 Regardless of the reason for it, you can contact me directly. Be kind 🙇‍♂️
 
