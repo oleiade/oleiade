@@ -1,22 +1,30 @@
 ## You've found Théo! 👋
 
-I'm a product and UX-oriented senior software engineer with 13 years of experience working in both remote and multicultural companies. My diverse background spans industries such as the press, data analytics, music, and observability. I'm passionate about delivering value to users and enjoy taking a holistic, hacker-style approach to engineering.
+I'm a polymath software engineer passionate about product development and user experience, backed by 13 years of diverse experience in remote and multicultural environments (working and living). My journey spans industries including press, data analytics, music, and observability.
+
+My main focus revolves around delivering user value, and I enjoy taking a holistic, breadth-first, hacker-style approach to engineering.
 
 ## 🏆 Proud Open-Source Contributions
 
-I am a maintainer of the popular k6 load testing tool. My other proud open-source contributions include the Go lang library [Lane](https://github.com/oleiade/lane), which implements generic PriorityQueues, Queues, Stacks, and Deque data structures, the Go library [Reflections](https://github.com/oleiade/trousseau), which simplifies reflection-based tasks, and the [Trousseau](https://github.com/oleiade/lane) project, which makes it easy to store and share private data in a safe manner.
+I maintain the k6 load testing tool and have contributed to various open-source projects, such as [Lane](https://github.com/oleiade/lane) and [Reflections](https://github.com/oleiade/trousseau). My commitment to open-source reflects my belief in giving back to the community.
+
+I am a maintainer of the popular k6 load testing tool. Some of my proud open-source contributions include:
+* [Lane](https://github.com/oleiade/lane), a Go library providing generic PriorityQueues, Queues, Stacks, and Deque data structures
+* [Reflections](https://github.com/oleiade/reflections): A Go library simplifying reflection-based tasks
+* Various system tools such as [trousseau](https://github.com/oleiade/trousseau), [motus](https://github.com/) or [mymy](https://github.com).
+* And [more...](https://github.com/oleiade?tab=repositories&type=source)
 
 ## 💼 Work Experience
 
-Currently, I am working as a Senior Software Engineer at Grafana Labs. I have previous experience at Ableton, Botify, and Libération, and I've worked on major projects such as Grafana k6, Ableton, Botify, and Libération.
+I thrive as a Staff Software Engineer at Grafana Labs, building tools that empower developers worldwide. Prior roles at Ableton, Botify, and Libération have equipped me with invaluable insights into major projects running or operating at scale, with sometimes uncommon requirements, scope, and workflows.
 
 ## 🔧 Skills
 
-My strong focus on product and user experience is complemented by strategic thinking and decision making. I have excellent communication and soft skills, and I am proficient in driving software design and consensus building. I am experienced in Go, Python, Rust, and C++, and I take a holistic and hacker-style approach to engineering. I have also gained experience working in remote and multicultural environments.
+Strategic thinking and decision-making complement my strong focus on product and user experience. I have excellent communication and soft skills and am proficient in driving software design and consensus building. I am experienced in Go, Python, Rust, and C++ and take a holistic, breadth-first, and hacker-style approach to engineering. Furthermore, working in remote and multicultural companies for the last ten years gave me the soft skills to navigate heterogeneous communication and working practices. 
 
 ## 🎓 Education
 
-I studied Literature and Philosophy before switching to Computer Science. I graduated from Epitech, a top computer science school in France.
+After studying Literature and Philosophy, I transitioned to Computer Science and graduated from Epitech, France's leading computer science school.
 
 ## 🌍 Around the web
 
@@ -24,10 +32,25 @@ I demystify technology one article at a time on my blog, https://theocrevon.com.
 
 ## 🎨 Personal Interests
 
-I am passionate about literature, philosophy, and photography. I have been playing the piano for the past 10 years, and I enjoy cooking and exploring the Japanese culture. I have been living in Berlin, Germany, for the past decade, and I embrace my neurodiversity as a high intellectual potential individual.
+Beyond coding, I'm passionate about literature, video games, philosophy, and photography. I've played the piano for a decade, have a healthy obsession with Japanese culture and food, and have been living in Berlin for the past decade. 
 
-⚡ Fun facts
+## ⚡ Fun facts
 
 - I use the fish shell. Some people seem to find it funny.
-- I use the MonaLisa font for everything that's remotely related to code, and people have been calling me "so french 🇫🇷" for it.
+I use the [MonoLisa](https://www.monolisa.dev/) font for everything related to code, and people have been calling me "so French 🇫🇷" for it.
 - I have an obsession with hardcore management and simulation games. If both the pilots of an Airbus A320 I was onboard were to become incapacitated, I'd probably be the passengers' best chance at landing it safely.
+
+## 💡 Neurodiversity
+
+It might not seem like it initially, but I'm rather shy and introverted. The Myers and Briggs personality test classifies me as an [INTP](https://www.16personalities.com/intp-personality), and in my experience, it fits how I perceive myself and what others reflect on me.
+
+A constitutive aspect of my personality I prefer to share is that I have a high IQ (for some reason, I always feel guilty, ashamed, and scared of saying it) and identify as neurodiverse. I'm not Einstein, but in my experience and according to modern psychology research, my brain can work in a somewhat different way than the "typical" person's. 
+
+For instance, although it tends not to be very well accepted in the world of technology, I have and rely on intuition quite heavily (as opposed to complex argument reasoning, although I'm also capable of that). Much of my awoken time is spent learning things; my brain somehow smothers all that in dark and tiny corners and fetches them out of the blue without necessarily providing me context when it judges it necessary. 
+
+I can also have trouble reasoning sequentially. My brain tends to prefer a more tree-like reasoning structure where ideas are nodes, and it constantly tries to connect them with edges in ways that can sometimes look completely irrelevant. Thus, I also sometimes have a hard time expressing what I mean because it's really hard to make what in my brain is some sort of mind map into a sequence of words.
+
+📫 Contact
+
+Regardless of the reason for it, you can contact me directly. Be kind 🙇‍♂️
+
