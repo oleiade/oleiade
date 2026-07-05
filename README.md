@@ -28,7 +28,7 @@ After studying Literature and Philosophy, I transitioned to Computer Science and
 
 ## 🌍 Around the web
 
-I demystify technology one article at a time on my blog, https://theocrevon.com. You can also find me showcasing my skills and achievements on [LinkedIn](https://www.linkedin.com/in/theocrevon/) and answering your Go, Python, Rust, and Systems questions on [StackOverflow](https://stackoverflow.com/users/386082/oleiade).
+You can find me showcasing my skills and achievements on [LinkedIn](https://www.linkedin.com/in/theocrevon/) and answering your Go, Python, Rust, and Systems questions on [StackOverflow](https://stackoverflow.com/users/386082/oleiade).
 
 ## 🎨 Personal Interests
 
